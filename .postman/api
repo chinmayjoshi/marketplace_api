@@ -12,3 +12,4 @@ rootDirectory = src
 files[] = {"path":"oas/marketplace_api.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
+type = openapi:3

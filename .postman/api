@@ -1,0 +1,14 @@
+id = 05dd6364-ce5b-4712-a3a3-1edfd629de2c
+
+[relations]
+
+[relations.collections]
+rootDirectory = postman/collections
+
+[relations.collections.metaData]
+
+[relations.apiDefinition]
+rootDirectory = src
+files[] = {"path":"oas/marketplace_api.yaml","metaData":{}}
+
+[relations.apiDefinition.metaData]
